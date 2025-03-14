@@ -3,3 +3,7 @@ def somme(L):
     for e in L:
         s += e
     return s
+
+
+my_list = [1, 5, 7]
+print("la somme est:", sum(my_list))
